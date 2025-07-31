@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# DVC
+/data/raw/
+/data/raw/*
+/data/raw.dvc
+
+# Logs & Models
+logs/
+models/*.pkl
+
+# Others
+.DS_Store
