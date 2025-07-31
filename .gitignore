@@ -6,7 +6,7 @@ __pycache__/
 # DVC
 /data/raw/
 /data/raw/*
-/data/raw.dvc
+#/data/raw.dvc
 
 # Logs & Models
 logs/
