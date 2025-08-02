@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/rravi/projects/mlops-california-housing/mlruns/175194109850070859
+creation_time: 1754099844049
+experiment_id: '175194109850070859'
+last_update_time: 1754099844049
+lifecycle_stage: active
+name: California_Housing_Experiment

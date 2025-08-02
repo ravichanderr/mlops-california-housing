@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rravi/projects/mlops-california-housing/mlruns/175194109850070859/0903b6f6bb684b0f9e0b48c40dfe83ed/artifacts
+end_time: 1754099966428
+entry_point_name: ''
+experiment_id: '175194109850070859'
+lifecycle_stage: active
+run_id: 0903b6f6bb684b0f9e0b48c40dfe83ed
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754099962431
+status: 3
+tags: []
+user_id: rravi

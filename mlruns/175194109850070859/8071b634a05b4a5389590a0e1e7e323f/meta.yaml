@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rravi/projects/mlops-california-housing/mlruns/175194109850070859/8071b634a05b4a5389590a0e1e7e323f/artifacts
+end_time: 1754099962410
+entry_point_name: ''
+experiment_id: '175194109850070859'
+lifecycle_stage: active
+run_id: 8071b634a05b4a5389590a0e1e7e323f
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754099950152
+status: 3
+tags: []
+user_id: rravi

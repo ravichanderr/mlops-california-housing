@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rravi/projects/mlops-california-housing/mlruns/175194109850070859/models/m-e4b434e99b89429084a3f726d3738acc/artifacts
+creation_timestamp: 1754150462589
+experiment_id: '175194109850070859'
+last_updated_timestamp: 1754150476560
+model_id: m-e4b434e99b89429084a3f726d3738acc
+model_type: null
+name: LinearRegression
+source_run_id: 01ae204fb174460cb21a9d7f0b546e3e
+status: 2
+status_message: null

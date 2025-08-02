@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/rravi/projects/mlops-california-housing/mlruns/175194109850070859/models/m-e4b434e99b89429084a3f726d3738acc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-e4b434e99b89429084a3f726d3738acc
+model_size_bytes: 724
+model_uuid: m-e4b434e99b89429084a3f726d3738acc
+prompts: null
+run_id: 01ae204fb174460cb21a9d7f0b546e3e
+utc_time_created: '2025-08-02 16:01:02.644997'

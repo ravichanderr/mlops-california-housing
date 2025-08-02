@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rravi/projects/mlops-california-housing/mlruns/175194109850070859/models/m-f5e7ab933835425e9ff9b75e395a0b25/artifacts
+creation_timestamp: 1754099962907
+experiment_id: '175194109850070859'
+last_updated_timestamp: 1754099966411
+model_id: m-f5e7ab933835425e9ff9b75e395a0b25
+model_type: null
+name: DecisionTree
+source_run_id: 0903b6f6bb684b0f9e0b48c40dfe83ed
+status: 2
+status_message: null
