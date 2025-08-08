@@ -26,6 +26,17 @@ jobs:
         pip install flake8
         pip install -r requirements.txt
 
+    - name: Run flake8
+      run: |
+        pip install flake8
+        flake8 src --max-line-length=120
+        
+    - name: Auto format code
+      run: |
+        pip install autopep8
+        autopep8 --in-place --aggressive --aggressive -r src/
+
+
     - name: Lint Code
       run: |
         flake8 src --max-line-length=120
